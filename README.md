@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 テストReadmeです。
 test-branchで変更。
-変更Staging用(1st)
+複数ファイル変更用(3rd)
