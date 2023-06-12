@@ -1,6 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-テストReadmeです。
-test-branchで変更。
-複数ファイル変更用(3rd)
-mergetoolコンフリクト用（featureブランチ）
+rebase-practiceブランチで更新（rebase用）
