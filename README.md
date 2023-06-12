@@ -3,4 +3,4 @@
 テストReadmeです。
 test-branchで変更。
 複数ファイル変更用(3rd)
-mainブランチで変更
+mergetoolコンフリクト用（featureブランチ）
